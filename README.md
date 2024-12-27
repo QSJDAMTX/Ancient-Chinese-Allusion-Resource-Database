@@ -95,7 +95,8 @@
   title={古汉语典故资源库的构建及应用研究},
   author={莫凯洁，丘子靓，王予沛，胡韧奋},
   journal={中文信息学报},
-  year={2024}
+  year={2024},
+  pages = {27--34}
 }
 ```
 
@@ -198,7 +199,8 @@ If you use this dataset in your research, please cite the following paper:
   title={Construction and Application of Ancient Chinese Allusion Resources},
   author={Kaijie Mo, Ziliang Qiu, Yupei Wang, Renfen Hu},
   journal={Journal of Chinese Information Processing},
-  year={2024}
+  year={2024},
+  pages = {27--34}
 }
 ```
 
